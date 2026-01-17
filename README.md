@@ -1,4 +1,20 @@
-# Spam Email Detection Using NLP and Logistic Regression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-+# Spam Email Detection Using NLP and Logistic Regression
 
 ## Project Overview
 This project implements an end-to-end spam email detection system using Natural Language Processing (NLP) and Machine Learning. The model classifies emails as spam or ham (non-spam) by learning patterns from real-world email data.
@@ -96,5 +112,5 @@ NLTK stopwords will be downloaded automatically.
 ---
 
 ## Author
-Manya Sondhi  
+Divyanshu Kumar 
 AI & ML Engineering Student  
